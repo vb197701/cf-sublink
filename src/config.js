@@ -15,7 +15,7 @@ export const UNIFIED_RULES = [
 	{
 		name: 'AI Services',
 		outbound: t('outboundNames.AI Services'),
-		site_rules: ['openai', 'anthropic','jetbrains-ai','perplexity'],
+		site_rules: ['category-ai-chat-!cn',],
 		ip_rules: []
 	},
 	{
@@ -384,10 +384,6 @@ export const SING_BOX_CONFIG = {
 		cache_file: {
 			enabled: true,
 			store_fakeip: true
-		},
-		clash_api: {
-			external_controller: '127.0.0.1:9090',
-			external_ui: 'dashboard'
 		}
 	}
 };

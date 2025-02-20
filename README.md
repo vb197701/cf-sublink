@@ -70,9 +70,9 @@
 
 ## 📝 最近更新
 
-### 2025-02-18
+### 2025-02-19
 
-- 添加前端i18n支持，后续会完善订阅逻辑
+- 更新了 `💬 AI服务` 的路由规则
 
 ## 🔧 项目结构
 
@@ -109,4 +109,10 @@
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date)](https://star-history.com/#7Sageer/sublink-worker&Date)
+<a href="https://star-history.com/#7Sageer/sublink-worker&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+ </picture>
+</a>
